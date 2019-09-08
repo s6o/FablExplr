@@ -1,0 +1,11 @@
+.DS_Store
+.vs/
+FablExplr.Android/bin/
+FablExplr.Android/obj/
+FablExplr.iOS/bin/
+FablExplr.iOS/obj/
+FablExplr.macOS/bin/
+FablExplr.macOS/obj/
+FablExplr/bin/
+FablExplr/obj/
+packages/
