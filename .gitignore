@@ -1,4 +1,5 @@
 .DS_Store
+.ionide
 .vs/
 FablExplr.Android/bin/
 FablExplr.Android/obj/
